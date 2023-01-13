@@ -1,0 +1,15 @@
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.csproj.AssemblyReference.cache
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.AssemblyInfoInputs.cache
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.AssemblyInfo.cs
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.csproj.CoreCompileInputs.cache
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\bin\Debug\net7.0\Block_Results_GB.exe
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\bin\Debug\net7.0\Block_Results_GB.deps.json
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\bin\Debug\net7.0\Block_Results_GB.runtimeconfig.json
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\bin\Debug\net7.0\Block_Results_GB.dll
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\bin\Debug\net7.0\Block_Results_GB.pdb
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.dll
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\refint\Block_Results_GB.dll
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.pdb
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\Block_Results_GB.genruntimeconfig.cache
+C:\Users\Koshe\Desktop\Block_Results_GB\01\Block_Results_GB\obj\Debug\net7.0\ref\Block_Results_GB.dll
